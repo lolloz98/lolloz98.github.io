@@ -1,2 +1,3 @@
 name: Lorenzo Carpaneto
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
