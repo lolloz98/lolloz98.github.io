@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Lorenzo Carpaneto",
+      "titles": [ "Developer", "MSc student of Computer Science and Engineering", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/lolloz98",
+          "class": "fab fa-github"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Kotlin",
+          "class": "devicon-kotlin-plain",
+          "level": "80"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain",
+          "level": "80"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "80"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "80"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "80"
+        },
+        {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "70"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
