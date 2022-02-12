@@ -35,8 +35,7 @@
         "startDate": "2020",
         "description": "Back in the days I was starting programming for Android. I have made some simple tutorials, both in Kotlin and Java, to show how to handle some basic situations (the link sends to the tutorial about ViewModel).",
         "images": [
-          "images/portfolio/android_tutorial/p1.png",
-          "images/portfolio/android_tutorial/p2.png"
+          "images/portfolio/android_tutorial/p1.png"
         ],
         "url": "https://github.com/lolloz98/Android_ViewModel",
         "technologies": [
@@ -51,6 +50,87 @@
           {
             "class": "devicon-kotlin-plain",
             "name": "Kotlin"
+          }
+        ]
+      },
+      {
+        "title": "Masters of Renaissance",
+        "startDate": "2020",
+        "description": "As a project for a course in university, with a team of three people we have developed the client-server version of the game \"Masters of Renaissance\". In this project, we have implemented both a CLI and a GUI. The game could be played with a maximum of 4 players and the server was able to handle multiple games simoultaneously.",
+        "images": [
+          "images/portfolio/master_of_renaissance/p1.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "SYP - Secure Your Place",
+        "startDate": "2020",
+        "description": "As a project for a course in university, with a team of three people we have developed a client-server application to monitor via a device with camera (e.g. raspberrypi) a room or an environment. The device was able to detect if people were in the room: if so, it would send a notification to the user. I have mainly worked on the live-streaming of the video: the server (developed with NodeJS) needed to put in communication the raspberry and the app on the android phone to let former one be able to stream the video. We decided not to publish the app because of the costs due to the server setup (and maintainance).",
+        "images": [
+          "images/portfolio/syp/p1_.svg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "SWERC",
+        "startDate": "2019",
+        "description": "In my third year of university, I have been selected to participate to SWERC, an international competition of competitive programming.",
+        "images": [
+          "images/portfolio/swerc/p1.svg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
           }
         ]
       },
@@ -93,18 +173,6 @@
           "JPA",
           "Compilers",
           "Software Engineering"
-        ]
-      },
-      {
-        "company": "icpc",
-        "title": "SWERC",
-        "years": "2019",
-        "mainTech": [
-          "Competitive Programming"
-        ],
-        "technologies": [
-          "C++",
-          "Python"
         ]
       },
       {
