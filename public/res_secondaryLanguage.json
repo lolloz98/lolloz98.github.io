@@ -31,31 +31,8 @@
       ]
     },
     {
-      "title": "Semplici Tutorial di Android",
-      "startDate": "2020",
-      "description": "Quando ho iniziato a programmare per android mi sono trovato a dover perdere molto tempo per capire alcuni semplici concetti. Cosí ho deciso di condividere alcuni semplici tutorial, sia in Java che in Kotlin, per aiutare altri programmatori alle prime armi a superare questi ostacoli iniziali. (Il link rimanda al tutorial riguardante ViewModel)",
-      "images": [
-        "images/portfolio/android_tutorial/p1.png"
-      ],
-      "url": "https://github.com/lolloz98/Android_ViewModel",
-      "technologies": [
-        {
-          "class": "devicon-java-plain",
-          "name": "Java"
-        },
-        {
-          "class": "devicon-android-plain",
-          "name": "Android"
-        },
-        {
-          "class": "devicon-kotlin-plain",
-          "name": "Kotlin"
-        }
-      ]
-    },
-    {
       "title": "Masters of Renaissance",
-      "startDate": "2020",
+      "startDate": "2021",
       "description": "Per un progetto per l'universitá, con un team di tre persone, ho sviluppato la versione client-server del gioco \"Maestri del Rinascimento\". In questo progetto abbiamo implementato sia una CLI che una GUI. Il gioco puó essere giocato da un massimo di 4 giocatori e il server puó gestire piú partite contemporaneamente.",
       "images": [
         "images/portfolio/master_of_renaissance/p1.png"
@@ -131,6 +108,29 @@
         {
           "class": "devicon-cplusplus-plain",
           "name": "C++"
+        }
+      ]
+    },
+    {
+      "title": "Semplici Tutorial di Android",
+      "startDate": "2019",
+      "description": "Quando ho iniziato a programmare per android mi sono trovato a dover perdere molto tempo per capire alcuni semplici concetti. Cosí ho deciso di condividere alcuni semplici tutorial, sia in Java che in Kotlin, per aiutare altri programmatori alle prime armi a superare questi ostacoli iniziali. (Il link rimanda al tutorial riguardante ViewModel)",
+      "images": [
+        "images/portfolio/android_tutorial/p1.png"
+      ],
+      "url": "https://github.com/lolloz98/Android_ViewModel",
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "Android"
+        },
+        {
+          "class": "devicon-kotlin-plain",
+          "name": "Kotlin"
         }
       ]
     },
